@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RESQGRID — EL Phase 2
 
 RESQGRID is a community incident-reporting and resource-coordination prototype. This updated project includes separate Public and Provider workspaces, responsive sign-in screen, incident reporting, report history, incident/safety feeds, a map view, provider registration, and resource inventory snapshots.
@@ -92,3 +93,7 @@ npm run build
 - OpenStreetMap facility locations do not confirm capacity or operational readiness.
 - AI/agent assessment is decision support only, not official triage.
 - Do not publish secrets or a real `.env` file. The ZIP intentionally includes `.env.example`, not a personal `.env` file.
+=======
+# RESQGRID
+Emergency resource allocation management 
+>>>>>>> e6e3ec754e2ea51be7e04bbfeef2f4b8c757deaf
